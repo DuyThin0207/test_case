@@ -1,0 +1,3 @@
+Long,150,online,fulltime
+Duy,1000,offline,partime
+aka LogKa,199,offline,fulltime
